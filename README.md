@@ -7,14 +7,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anuruddhal&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="anuruddhal" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
