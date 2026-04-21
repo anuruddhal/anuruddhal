@@ -24,15 +24,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuruddhal&theme=redical&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=anuruddhal&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuruddhal&theme=radical&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
