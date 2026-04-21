@@ -10,13 +10,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anuruddhal&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anuruddhal&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuruddhal&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuruddhal&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=anuruddhal&theme=radical&hide_border=true" alt="Wakatime Stats" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuruddhal&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anuruddhal&theme=radical" alt="Stats Summary" />
 </p>
 
 ---
@@ -42,15 +42,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuruddhal&theme=radical" alt="Profile Details" />
-</p>
-
----
-
-## 🎯 Current Stats Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anuruddhal&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anuruddhal&theme=radical" alt="Productive Time" />
 </p>
 
 ---
